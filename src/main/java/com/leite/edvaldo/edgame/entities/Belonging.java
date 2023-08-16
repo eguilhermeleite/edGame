@@ -5,7 +5,6 @@ import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;
 import lombok.AllArgsConstructor;
 
-
 @Entity
 public class Belonging {
 
